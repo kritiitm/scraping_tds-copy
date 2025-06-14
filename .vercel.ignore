@@ -1,0 +1,6 @@
+*
+!query_openai.py
+!vector_store.npz
+!chunks/**
+!requirements.txt
+!vercel.json
